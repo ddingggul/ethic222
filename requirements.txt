@@ -86,7 +86,7 @@ toml==0.10.2
 tornado==6.5.1
 typing-extensions==4.14.1
 tzdata==2025.2
-tzlocal==5.3.1
+tzlocal==4.0
 urllib3==2.5.0
 validators==0.35.0
 watchdog==6.0.0
