@@ -39,16 +39,16 @@ markupsafe==3.0.2
 matplotlib==3.5.1
 mdurl==0.1.2
 narwhals==2.0.0
-numba==0.58.0
-numpy==1.21.5
+numba==0.59.0      # numba 버전을 0.59.0으로 올립니다.
+numpy==1.26.4      # numpy 버전을 1.26.4로 올립니다. (numba 0.59.0과 pandas 2.0.3 모두 호환)
 oauthlib==3.3.1
 opt-einsum==3.4.0
 packaging==25.0
-pandas==2.0.3
+pandas==2.0.3      # pandas는 유지
 pillow==11.3.0
 platformdirs==4.3.8
 pooch==1.8.2
-protobuf==3.20.0  # 이 부분을 수정하거나 추가
+protobuf==3.20.0
 pyarrow==21.0.0
 pyasn1==0.6.1
 pyasn1-modules==0.4.2
@@ -73,7 +73,7 @@ setuptools==80.9.0
 six==1.17.0
 smmap==5.0.2
 soundfile==0.10.3.post1
-streamlit==1.26.0  # 이 부분을 수정하거나 추가
+streamlit==1.26.0  # Streamlit도 1.26.0으로 명시
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
