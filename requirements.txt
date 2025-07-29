@@ -32,7 +32,7 @@ keras==2.11.0
 kiwisolver==1.4.7
 libclang==18.1.1
 librosa==0.8.1
-llvmlite==0.41.1
+llvmlite==0.42.0
 markdown==3.8.2
 markdown-it-py==3.0.0
 markupsafe==3.0.2
