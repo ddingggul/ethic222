@@ -66,7 +66,7 @@ resampy==0.4.3
 rich==14.1.0
 rpds-py==0.26.0
 rsa==4.9.1
-scikit-learn==1.0.2 # scikit-learn 추가 또는 버전 확인
+scikit-learn==1.2.2
 scipy==1.10.1
 semver==3.0.4
 setuptools==80.9.0
